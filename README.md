@@ -1,11 +1,19 @@
-# PDFS-Scraper
-### Scrapy PDF Scraper! Had never a thought of making it!
-## This is a production level pdf scraper made for a company for finding PDFS Having a Particular List Of Keywords
+  # PDFS-Scraper
 
-Can Be Used For Bulk Websites & Adding More Features Soon
+This is a production level pdf scraper made for a company for finding files having a particular list of keywords
+
+Can Be Used For Bulk Websites
+
+#### Commands
+```bash
+  pip3 install scrapy
+  git clone https://github.com/hackingguy/PDFS-Scraper
+  cd PDFS-Scraper
+  scrapy crawl pdfs
+```
 
 # Developers
 
-*   Akash Chhabra - [Profile Link](https://github.com/hackingguy)
+*   [Akash Chhabra](https://github.com/hackingguy)
 
-*   Khushbu Singhal - [Email](khusbusinghal1234567@gmail.com)
+*   [Khushbu Singhal](mailto:khusbusinghal1234567@gmail.com)
